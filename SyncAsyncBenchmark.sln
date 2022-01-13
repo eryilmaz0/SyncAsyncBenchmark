@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarh.Tester", "Benchmarh.Tester\Benchmarh.Tester.csproj", "{4E9E0CD4-8228-4113-AF97-F34BE720DD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark.API", "Benchmark.API\Benchmark.API.csproj", "{947640F6-4BEB-4554-9556-1CEA2C103B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9E0CD4-8228-4113-AF97-F34BE720DD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9E0CD4-8228-4113-AF97-F34BE720DD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9E0CD4-8228-4113-AF97-F34BE720DD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9E0CD4-8228-4113-AF97-F34BE720DD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947640F6-4BEB-4554-9556-1CEA2C103B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947640F6-4BEB-4554-9556-1CEA2C103B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947640F6-4BEB-4554-9556-1CEA2C103B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947640F6-4BEB-4554-9556-1CEA2C103B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44335B0B-1D33-4507-A85A-586CB21748EF}
+	EndGlobalSection
+EndGlobal
